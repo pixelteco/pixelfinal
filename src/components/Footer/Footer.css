@@ -1,0 +1,8 @@
+a {
+    color: #ffffff;
+    text-decoration: underline;
+}
+
+.btn-primary {
+    --bs-btn-border-color: #181820;
+}
